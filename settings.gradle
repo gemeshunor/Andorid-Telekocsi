@@ -1,0 +1,2 @@
+rootProject.name='BMEAutoMegosztas'
+include ':app'
